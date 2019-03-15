@@ -12,7 +12,8 @@
     <ImageView
         android:src="@drawable/bubble"
         android:layout_width="64dp"
-        android:layout_height="64dp" />
+        android:layout_height="64dp"
+        android:layout_marginBottom="90dp"/>
 
     <EditText
         android:id="@+id/username"
@@ -30,7 +31,7 @@
         android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:padding="15dp"
         android:hint="Password"
         android:inputType="textPassword"
@@ -43,8 +44,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Login"
+        android:textSize="20dp"
+        android:textStyle="bold"
         android:layout_marginTop="50dp"
-        />
+        android:background="@drawable/button_style"/>
 
 
 
