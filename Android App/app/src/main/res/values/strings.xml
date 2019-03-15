@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="waiting_text">جاري تشغيل التطبيق</string>
+</resources>
